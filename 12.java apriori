@@ -82,3 +82,23 @@ public class apriori {
     }
 }
 }
+
+o/p:
+Frequent Itemsets:
+[diaper]
+[beer]
+[milk]
+[bread]
+[beer, diaper]
+[diaper, milk]
+[diaper, bread]
+[beer, milk]
+[beer, bread]
+[bread, milk]
+[diaper, beer, milk]
+[diaper, beer, bread]
+[diaper, beer, milk]
+[diaper, beer, bread]
+[beer, diaper, milk]
+[beer, diaper, bread]
+
